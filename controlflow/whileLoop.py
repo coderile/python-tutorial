@@ -1,0 +1,2 @@
+command = ""
+while command != "quit"
